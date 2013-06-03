@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\wamp\www\PixDumpCheck\checkPixDump.bat",0,True
